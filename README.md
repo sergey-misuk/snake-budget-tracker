@@ -1,1 +1,1 @@
-# snake-budget-tracker
+# snake-notes
